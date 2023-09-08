@@ -72,6 +72,9 @@ git rebase master - добавить коммиты из ветки мастер
 
 ## Второй раздел
 
+git config --global user.name "user name"
+git config --global user.email 'user email'
+
 ## Третий раздел
 
 ## Четвертый раздел
@@ -79,3 +82,4 @@ git rebase master - добавить коммиты из ветки мастер
 Привет из первой ветки 
 
 привет из мастер
+Привет из второй ветки
