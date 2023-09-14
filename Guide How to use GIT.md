@@ -158,3 +158,7 @@ git config --global user.email 'user email'
 
 > git push
 
+###  Редактируем в удаленном репозитории и делимся изменениями в локальном
+
+>git pull
+
