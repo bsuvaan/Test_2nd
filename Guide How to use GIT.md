@@ -158,5 +158,6 @@ git config --global user.email 'user email'
 ### Редактируем документ в удаленном репозитории и добавляем его в локальный
 
  >git pull
+>
 
 
